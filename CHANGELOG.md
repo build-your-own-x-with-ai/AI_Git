@@ -86,6 +86,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fixed Rich Console error output compatibility by creating separate error console
 - Removed unnecessary sys.path manipulation that caused path conflicts
 - All error messages now properly output to stderr
+- Improved push error detection to correctly identify and report push failures
+- Added detailed push status checking with proper error flags (ERROR, REJECTED, REMOTE_REJECTED, REMOTE_FAILURE)
 
 ## [Unreleased]
 
