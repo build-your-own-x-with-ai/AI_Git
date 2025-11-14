@@ -1,5 +1,7 @@
 # Git Client - Simple Git Client with SSH Support
 
+English | [简体中文](README_CN.md)
+
 A simple, user-friendly Git client built with Python that provides essential Git functionality with full SSH support for GitHub. Perfect for learning Git internals or as a lightweight alternative to the standard Git CLI.
 
 ## Features
